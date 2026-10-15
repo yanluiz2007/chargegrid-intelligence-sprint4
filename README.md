@@ -1,4 +1,4 @@
-    # ⚡ ChargeGrid Intelligence — Sprint 4
+# ⚡ ChargeGrid Intelligence — Sprint 4
 
 **Solução final integrada | EV Challenge GoodWe 2026**
 Pensamento Computacional e Automação em Python · Grupo 5 · Turma 1CCPY · FIAP
