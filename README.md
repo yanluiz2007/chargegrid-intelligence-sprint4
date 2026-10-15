@@ -5,7 +5,7 @@ Pensamento Computacional e Automação em Python · Grupo 5 · Turma 1CCPY · FI
 
 > Plataforma em Python que gerencia a energia de um estacionamento com carregadores de veículos elétricos, combinando geração solar, bateria e controle inteligente de demanda com equipamentos GoodWe.
 
-🎥 **Vídeo da solução:** _(adicionar link do YouTube)_
+🎥 **Vídeo da solução:** https://youtu.be/oTzr7kSkeLk
 
 ---
 
