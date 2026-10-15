@@ -1,0 +1,10 @@
+indicador,sem_chargegrid,com_chargegrid,unidade
+Pico de demanda,114.47,72.0,kW
+Intervalos acima do contratado,11.0,0.0,de 96
+Energia comprada da rede (dia),1203.97,755.86,kWh
+Energia da rede no horario de ponta,233.9,149.65,kWh
+Energia entregue aos veiculos,316.25,316.25,kWh
+Custo de energia (dia),1105.24,694.85,R$
+Multa de ultrapassagem (mes),2757.6,0.0,R$
+Custo total estimado (mes),30272.93,18486.8,R$
+Emissao de CO2 (dia),34.79,21.84,kg

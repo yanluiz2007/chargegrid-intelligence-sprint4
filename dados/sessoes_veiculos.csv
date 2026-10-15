@@ -1,0 +1,17 @@
+veiculo,vaga,tipo_recarga,potencia_kw,passo_chegada,passo_saida,energia_pedida_kwh,energia_entregue_sem_controle_kwh,energia_entregue_com_chargegrid_kwh,atendimento_pct
+Veiculo 01,Vaga 1,normal,7.4,28,37,26.3,16.65,16.65,63.3
+Veiculo 02,Vaga 2,normal,7.4,30,43,10.2,10.2,10.2,100.0
+Veiculo 03,Vaga 3,rapida,22.0,32,40,25.2,25.2,25.2,100.0
+Veiculo 04,Vaga 4,rapida,22.0,34,42,16.7,16.7,16.7,100.0
+Veiculo 05,Vaga 5,normal,7.4,35,49,12.6,12.6,12.6,100.0
+Veiculo 06,Vaga 6,rapida,22.0,36,50,14.7,14.7,14.7,100.0
+Veiculo 07,Vaga 1,normal,7.4,54,71,26.6,26.6,26.6,100.0
+Veiculo 08,Vaga 2,normal,7.4,56,70,31.9,25.9,25.9,81.2
+Veiculo 09,Vaga 3,normal,7.4,56,70,27.3,25.9,25.9,94.9
+Veiculo 10,Vaga 4,rapida,22.0,57,68,12.9,12.9,12.9,100.0
+Veiculo 11,Vaga 1,rapida,22.0,72,82,18.3,18.3,18.3,100.0
+Veiculo 12,Vaga 2,normal,7.4,73,90,28.3,28.3,28.3,100.0
+Veiculo 13,Vaga 3,rapida,22.0,73,88,21.4,21.4,21.4,100.0
+Veiculo 14,Vaga 4,normal,7.4,75,86,16.3,16.3,16.3,100.0
+Veiculo 15,Vaga 5,rapida,22.0,76,84,18.7,18.7,18.7,100.0
+Veiculo 16,Vaga 6,normal,7.4,77,91,30.5,25.9,25.9,84.9
